@@ -1,8 +1,8 @@
 {
-    "Version": "4.0.1",
+    "Version": "5",
     "ReleaseNotes": "https://t.me/EMANETMULTIPAIS",
-    "Sms": "https://webcont.x10.mx/update/Pc5V8/sms",
-    "UrlUpdate": "https://webcont.x10.mx/update/Pc5V8/config",
+    "Sms": "https://raw.githubusercontent.com/emagod/NED-VPN/main/servs",
+    "UrlUpdate": "https://raw.githubusercontent.com/emagod/NED-VPN/main/servs",
     "EmailFeedback": "https://t.me/EMANETMULTIPAIS",
     "UrlContato": "https://t.me/EMANETMULTIPAIS",
     "videoUrl": "",
@@ -25,17 +25,6 @@
             "SSLPort": "80",
             "USER": "",
             "PASS": ""
-        },
-        {
-            "Name": "Nuevo Servidor UDP",
-            "TYPE": "udp",
-            "FLAG": "us.png",
-            "ServerIP": "23.158.72.132",
-            "CheckUser": "http://",
-            "ServerPort": "10000-65535",
-            "SSLPort": "",
-            "USER": "nunmaks",
-            "PASS": "ema"
         }
     ],
     "Networks": [
@@ -50,14 +39,14 @@
             "Info": "Direct"
         },
         {
-            "Name": "Nueva Red UDP",
-            "FLAG": "udp.png",
-            "Payload": "",
-            "SNI": "",
+            "Name": "Claro GT",
+            "FLAG": "claro",
+            "Payload": "OPTIONS /DARKO HTTP/1.1[lf]Host: mis.speedymovil.com.mx[lf]Connection: close[crlf]X-Forwarded-For: mis.speedymovil.com.mx[lf]Content-Length: 123456789 dark-Control: DAR-KO darki: DAR-KO Connection: close[lf][lf]",
+            "SNI": "payloadssl1.speicersmx.online:80",
             "TlsIP": "",
-            "ProxyIP": "23.158.72.132",
-            "ProxyPort": "10000-65535",
-            "Info": "UDP"
+            "ProxyIP": "payloadssl1.speicersmx.online",
+            "ProxyPort": "80",
+            "Info": "SSH Direct"
         }
     ]
 }
