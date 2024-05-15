@@ -1,6 +1,19 @@
 {
  "VIPversion": "10",
  "VIPreleaseNotes": "WOM Y MAS",
+ "Sms": "WOM Y MAS",
+ "UrlUpdate": "https://raw.githubusercontent.com/emagod/NED-VPN/main/servs",
+ "EmailFeedback": "https://t.me/EMANETMULTIPAIS",
+    "UrlContato": "https://t.me/EMANETMULTIPAIS",
+    "videoUrl": "",
+    "logoonline": "",
+    "fundoonline": "",
+    "fundoDoLogOnline": "",
+    "rodapeonline": "",
+    "UrlTermos": "",
+    "CheckUser": "true",
+    "Udp": null,
+    "UdpPort": "",
  "Servers": [
   {
    "Name": "WOM",
