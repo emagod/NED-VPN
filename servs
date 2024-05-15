@@ -74,7 +74,7 @@
   },
   {
    "Name": "CLARO ",
-   "FLAG": "gt",
+   "FLAG": "co",
    "ServerIP": "balanceador.speedymovil.com.mx",
    "sPais": "",
    "ServerPort": "80",
