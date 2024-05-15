@@ -1,8 +1,8 @@
 {
-    "Version": "5",
+    "Version": "6",
     "ReleaseNotes": "https://t.me/EMANETMULTIPAIS",
     "Sms": "https://webcont.x10.mx/update/Pc5V8/sms",
-    "UrlUpdate": "https://webcont.x10.mx/update/Pc5V8/config",
+    "UrlUpdate": "https://raw.githubusercontent.com/emagod/NED-VPN/main/servs",
     "EmailFeedback": "https://t.me/EMANETMULTIPAIS",
     "UrlContato": "https://t.me/EMANETMULTIPAIS",
     "videoUrl": "",
