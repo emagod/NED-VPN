@@ -1,5 +1,5 @@
 {
-    "Version": "4",
+    "Version": "4.0.1",
     "ReleaseNotes": "https://t.me/EMANETMULTIPAIS",
     "Sms": "https://webcont.x10.mx/update/Pc5V8/sms",
     "UrlUpdate": "https://webcont.x10.mx/update/Pc5V8/config",
@@ -25,6 +25,17 @@
             "SSLPort": "80",
             "USER": "",
             "PASS": ""
+        },
+        {
+            "Name": "Nuevo Servidor UDP",
+            "TYPE": "udp",
+            "FLAG": "us.png",
+            "ServerIP": "23.158.72.132",
+            "CheckUser": "http://",
+            "ServerPort": "10000-65535",
+            "SSLPort": "",
+            "USER": "nunmaks",
+            "PASS": "ema"
         }
     ],
     "Networks": [
@@ -37,6 +48,16 @@
             "ProxyIP": "payloadssl1.speicersmx.online",
             "ProxyPort": "80",
             "Info": "Direct"
+        },
+        {
+            "Name": "Nueva Red UDP",
+            "FLAG": "udp.png",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "23.158.72.132",
+            "ProxyPort": "10000-65535",
+            "Info": "UDP"
         }
     ]
 }
